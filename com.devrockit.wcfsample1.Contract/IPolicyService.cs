@@ -2,7 +2,7 @@
 using System.ServiceModel;
 using com.devrockit.wcfsample1.Model;
 
-//test comment
+//test comment (only on dev)
 namespace com.devrockit.wcfsample1.Contract
 {
     [ServiceContract(Namespace = "http://com/devrockit/wcfsample1")]
