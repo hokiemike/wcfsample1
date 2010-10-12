@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#"  Service="com.devrockit.wcfsample1.Service.Services.PolicyService"  %>
